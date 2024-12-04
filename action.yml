@@ -9,7 +9,7 @@ inputs:
     description: Secret key
     required: true
   host:
-    description: Bark server hostname
+    description: Bark server hostnamae
     required: false
   title:
     description: Message title
